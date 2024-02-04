@@ -10,3 +10,4 @@ case 2:
     happiness = happiness + 1;//increase happiness
     Console.WriteLine("increase happiness,slightly increases hapiness");
     break;
+
